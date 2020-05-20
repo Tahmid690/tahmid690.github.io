@@ -2,6 +2,7 @@ body{
   background-color:#00001D;
   color:#B0B0BD;
   font-size:20px;
+margin-left:170px;
 }
 details{
   background-color:#1B1B55 ;
@@ -50,5 +51,28 @@ table, th, td {
 	shape:circle;
 }
 #intro img{
-  border-radius:50%;
+  border-radius:15px;
+  border: 6px solid white;
+color:black;
+}
+
+
+
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+ 
+ 
+  top: 0;
+  left: 0;
+  background-color: black; /* Black */
+  
+  
+}
+.sidenav a {
+
+	color:white;
+	
 }
