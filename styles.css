@@ -49,3 +49,6 @@ table, th, td {
 #im{
 	shape:circle;
 }
+#intro img{
+  border-radius:50%;
+}
